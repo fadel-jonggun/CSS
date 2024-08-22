@@ -1,0 +1,76 @@
+.text-align h1{
+    text-align: center;
+}
+.text-align h2{
+    text-align: right;
+}
+.text-align h3{
+    text-align: left;
+}
+.text-align h4{
+    text-align: center;
+}
+.text-align h5{
+    text-align: justify;
+}
+.text-direction h1{
+    direction: ltr;
+    text-align: center;
+}
+.text-direction h2{
+    direction: ltr;
+}
+.text-direction h3{
+    direction: rtl;
+}
+.text-decoration h1{
+    text-align: center;
+}
+.text-decoration h2{
+    text-decoration: overline;
+}
+.text-decoration h3{
+    text-decoration: underline;
+}
+.text-decoration h4{
+    text-decoration: line-through;
+}
+.text-decoration h5{
+    text-decoration: underline overline;
+}
+.text-transform h1{
+    text-align: center;
+}
+.text-transform h2{
+    text-transform: uppercase;
+}
+.text-transform h3{
+    text-transform: lowercase;
+}
+.text-transform h4{
+    text-transform: capitalize;
+}
+.text-spacing h1{
+    text-align: center;
+}
+.text-spacing h2{
+    word-spacing: 3em;
+}
+.text-overflow h1{
+    text-align: center;
+}
+.text-overflow h2{
+    overflow: hidden;
+}
+.text-overflow h3{
+    overflow: visible;
+}
+.text-overflow h4{
+    overflow: scroll;
+}
+.text-shadow h1{
+    text-align: center;
+}
+.text-shadow h2{
+    text-shadow: 2px 2px #ff0000;
+}
