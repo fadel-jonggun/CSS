@@ -1,0 +1,16 @@
+#banner{
+    color: beige;
+    background-color: black;
+    padding: 5em 2em 10em 2em;
+    margin-bottom: 5em;
+    text-align: center;
+}
+#partner{
+    color: beige;
+    background-color: black;
+}
+footer h1{
+    background-color: black;
+    color: beige;
+    text-align: center;
+}

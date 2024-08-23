@@ -1,34 +1,34 @@
-.sate-padang{
-    background-color: green;
-    color: black;
-    text-align: center;
+.sate-padang {
+  background-color: green;
+  color: black;
+  text-align: center;
 }
-.nasi-goreng{
-    background-color: yellow;
-    color: black;
-    text-align: center;
+.nasi-goreng {
+  background-color: yellow;
+  color: black;
+  text-align: center;
 }
-.kwetiau{
-    background-color: red;
-    color: black;
-    text-align: center;
+.kwetiau {
+  background-color: red;
+  color: black;
+  text-align: center;
 }
-footer{
-    background-color: grey;
-    color: white;
-    text-align: center;
+footer {
+  background-color: grey;
+  color: white;
+  text-align: center;
 }
-header{
-    background-color: aqua;
-    color: white;
-    text-align: center;
+header {
+  background-color: aqua;
+  color: white;
+  text-align: center;
 }
-.sate-padang p{
- color: white;   
+.sate-padang p {
+  color: white;
 }
-.nasi-goreng p{
-    color: white;
+.nasi-goreng p {
+  color: white;
 }
-.kwetiau p{
-    color: white;
+.kwetiau p {
+  color: white;
 }

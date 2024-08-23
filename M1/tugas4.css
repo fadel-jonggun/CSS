@@ -1,0 +1,30 @@
+#smoothie {
+  text-align: center;
+  background-color: blueviolet;
+  font-size: large;
+  color: black;
+}
+#milkshake {
+  text-align: center;
+  background-color: beige;
+  font-size: large;
+  color: black;
+}
+#soda {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: large;
+}
+#smoothie h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+#milkshake h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+#soda h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
