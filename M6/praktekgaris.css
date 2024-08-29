@@ -1,0 +1,35 @@
+.garis {
+  text-align: center;
+  border-bottom: 10px solid black;
+}
+.border {
+  text-align: center;
+  border-bottom: 2px solid blue;
+  border-top: 2px solid blue;
+}
+.jenis-garis .solid{
+    text-align: right;
+    border: 2px solid blueviolet;
+}
+.jenis-garis .dashed{
+  text-align: center;
+  border: 2px dashed black;
+}
+.jenis-garis .dotted{
+  border: 2px dotted aqua;
+}
+.jenis-garis .double{
+  border: 10px double ;
+  text-align: right;
+}
+.rounded-corner{
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+.gambar-garis{
+  border-left: 5px solid brown;
+  border-right: 5px solid brown;
+}
