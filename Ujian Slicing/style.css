@@ -1,0 +1,69 @@
+.default-1{
+    background-color: bisque;
+}
+.default-1 h1{
+    background-color: red;
+}
+.default-1 h2{
+    background-color: blue;
+}
+.default-2{
+    background-color: bisque;
+    display: flex;
+}
+.default-2 h1{
+    background-color: red;
+}
+.default-2 h2{
+    background-color: blue;
+}
+.default-3{
+    background-color: bisque;
+    justify-content: center;
+    display: flex;
+}
+.default-3 h1{
+    background-color: red;
+}
+.default-3 h2{
+    background-color: blue;
+}
+.default-4{
+    background-color: bisque;
+    justify-content: space-between;
+    display: flex;
+}
+.default-4 h1{
+    background-color: red;
+}
+.default-4 h2{
+    background-color: blue;
+}
+.default-5{
+    background-color: bisque;
+    justify-content: space-between;
+    display: flex;
+}
+.default-5 h1{
+    background-color: red;
+}
+.default-5 h2{
+    background-color: blue;
+}
+.default-5 p{
+    background-color: green;
+}
+.default-6{
+    background-color: bisque;
+    justify-content: space-between;
+    display: flex;
+}
+.default-6 h1{
+    background-color: red;
+}
+.default-6 img{
+    background-color: blue;
+}
+.default-6 p{
+    background-color: green;
+}

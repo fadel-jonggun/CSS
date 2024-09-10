@@ -1,0 +1,16 @@
+.imeg{
+    float: left;
+    background-color: beige;
+}
+.box-1 p{
+    background-color: brown;
+}
+.box-2{
+    clear: both;
+}
+.imag{
+    float: right;
+}
+.box-3 h1{
+    padding-top: 100px;
+}

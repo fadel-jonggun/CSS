@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.container-navigasi{
+  display: flex;
+  margin-left: 5px;
+  margin-right: 20px;
+  justify-content: space-between;
+  font-family: "Inter", sans-serif;
+}
+
+.logo-header{
+  font-family: "Inter", sans-serif;
+  display: flex;
+  font-size: 20px;
+  font-weight: 700;
+  align-items: center;
+}
+
+.logo-header p {
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+.list-navigasi{
+  display: flex;
+}
+
+.list-navigasi li {
+  list-style-type: none;
+  font-family: "Inter", sans-serif;
+  margin-left: 20px;  
+  margin-right: 10px;
+}
+
+.container-banner{
+  background-color: #F5F7FA;
+  display: flex;
+}
+
+.belajar{
+  background-color: #F5F7FA;
+}
+
+.container-banner img {
+  background-color: #F5F7FA;
+  width: 700px;
+}
+.belajar p{
+  color:#717171 ;
+  font-size: 20px;
+}
+.belajar button{
+  background-color: #FAA613;
+  border: none;
+  color: white;
+  font-size: 28px;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+.belajar .belajar-txt{
+  font-size: 64px;
+  color: #717171;
+  font-family: "Inter", sans-serif;
+  margin-bottom: 15px ;
+}
+.belajar .abujar-txt{
+  color: #FAA613;
+  font-size: 44.55px;
+  font-family: "Inter", sans-serif;
+  margin-bottom: 15px;
+}
+.belajar p{
+  color: #717171;
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  margin-bottom: 20px;
+}
+.button-register{
+  background-color: #FAA613;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+.user{
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.user span{
+  color: white;
+  background-color: red;
+  position: absolute;
+  right: 0px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  border-radius: 10px;
+  top: -3px;
+}
+#navigasi{
+  position: sticky;
+  top: 0px;
+  background-color: white;
+}

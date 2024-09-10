@@ -1,0 +1,62 @@
+.banner{
+    background-color: bisque;
+    overflow: auto;
+}
+.banner img{
+    float: right;
+}
+.clear{
+    clear: right;
+    background-color: antiquewhite;
+}
+.box1{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    float: left;
+}
+.box2{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    float: left;
+}
+.box3{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    float: left;
+}
+.box-spesial{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    clear: both;
+}
+.my-box{
+    background-color: burlywood;
+    overflow: auto;
+}
+.kotak1{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.kotak2{
+    background-color: blueviolet;
+    width: 200px;
+    height: 600px;
+    float: right;
+}
+p{
+    clear: both;
+}

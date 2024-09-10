@@ -14,3 +14,16 @@ footer h1{
     color: beige;
     text-align: center;
 }
+.box-1{
+    background-color: aqua;
+}
+.box-1 .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box-1 .container p{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: brown ;
+}
