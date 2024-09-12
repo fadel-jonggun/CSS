@@ -1,0 +1,49 @@
+.visible{
+    background-color: azure;
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    overflow: visible;
+}
+hr{
+    margin-top: 100px;
+}
+.hidden{
+    background-color: azure;
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    overflow: hidden;
+}
+.scrool{
+    background-color: azure;
+    width: 200px;
+    height: 500px;
+    
+    overflow: scroll;
+}
+.auto{
+    background-color: azure;
+    width: 200px;
+    height: 500px;
+
+    overflow: auto;
+}
+.sumbu-y{
+    background-color: azure;
+    width: 200px;
+    height: 100px;
+
+    overflow-y: hidden;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.sumbu-x{
+    background-color: azure;
+    width: 200px;
+    height: 100px;
+
+    overflow-y: hidden;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
