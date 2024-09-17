@@ -1,0 +1,38 @@
+.tab-container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.tabs {
+    display: flex;
+    background-color: #007bff; /* Warna tab */
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0; /* Rounded top corners */
+}
+
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    transition: background-color 0.3s; /* Transisi untuk efek hover */
+}
+
+.tab.active {
+    background-color: #0056b3; /* Warna tab aktif */
+}
+
+.tab-content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 0 0 5px 5px; /* Rounded bottom corners */
+}
+
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.active {
+    display: block;
+}
