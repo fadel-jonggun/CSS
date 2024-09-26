@@ -210,4 +210,23 @@
     }
   
   }
-  
+#content-5{
+    margin: 150px 88px 150px 88px;
+}
+.kiri{
+    line-height: 6px;
+}
+.ms{
+    color: #717171;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+}
+.md{
+    color: #FAA613;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+}
+.kiri p{
+    color: #717171;
+    font-family: "Inter", sans-serif;
+}

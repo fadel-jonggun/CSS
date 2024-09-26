@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.bungkus{
+    width: 35%;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.text-h{
+    line-height: 3px;
+    font-family: "Inter", sans-serif;
+    margin-left: 15px;
+}
+.text-h p{
+    color: #717171;
+}
+.dots{
+    margin-left: 100px;
+}
+.gambar{
+    padding-top: 20px;
+    width: 100%;
+}
